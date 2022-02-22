@@ -2,7 +2,7 @@
   <b>VISHNU S PRAMOD</b>
 </h1>
 
-Heya! I'm VISHNU S PRAMOD, a B-TECH student from kerala, India. I'm learning programming through small projects  on the side.
+Hey! I'm VISHNU S PRAMOD, a B-TECH student from kerala, India. I'm learning programming through small projects  on the side.
 <br>
 
 <p>
