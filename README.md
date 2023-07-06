@@ -1,9 +1,9 @@
 <h1 align="center">
   <b>VISHNU S PRAMOD</b>
 </h1>
+<p align="center">
+<i>Hey! I'm VISHNU S PRAMOD, a B-TECH student from kerala, India.</i></p>
 
-Hey! I'm VISHNU S PRAMOD, a B-TECH student from kerala, India. I'm learning programming through small projects  on the side.
-<br>
 
 <p>
 <div align="center">
@@ -27,12 +27,12 @@ class VISHNU():
 if __name__ == '__main__':
     me = VISHNU()
 ```
-
+<!--
 <div align="center">
   <a href="https://open.spotify.com/user/313flkha3h3oapsp6xannt5keyc4?si=754d6d77306a43d9">
     <img src="https://readme-spotify-tingz.vercel.app/api/now-playing">
   </a>
-</div>
+</div>-->
 
 <!--
 <div align="center">
@@ -42,17 +42,25 @@ if __name__ == '__main__':
 </div>
 -->
 
-## My Statistics
+## Statistics
 
 <br/>
-<p align="left">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=V-I-S-H-N-U&show_icons=true&theme=gruvbox&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=V-I-S-H-N-U&theme=gruvbox&hide_border=true" />
-  </a>
+<p align="center">
+  <div align=center>
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=V-I-S-H-N-U&show_icons=true&theme=gruvbox&hide_border=true"/><br>
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=V-I-S-H-N-U&theme=gruvbox&hide_border=true"/>
+    </div>  
 </p>
 <br>
 
-![VISHNU S PRAMOD's Activity Graph](https://activity-graph.herokuapp.com/graph?username=V-I-S-H-N-U&custom_title=V-I-S-H-N-U's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)
+## Connect
+<p>
+<div align="center">
+  <a href="https://in.linkedin.com/in/vishnu-s-pramod-19b7a3234">
+  <img src="https://img.shields.io/badge/-LinkedIn-99b7ec?style=for-the-badge&logo=Linkedin&logoColor=99b7ec&labelColor=282828">
+  <a>
+</div>
+</p>
 
 ------
 
